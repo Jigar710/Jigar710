@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=100&color=BB4CFF&width=435&height=50&lines=Hi%2C+I'm+Jigar+Shekhat.;I+want+to+make+things;that+make+a+difference." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=100&color=BB4CFF&width=435&height=80&lines=Hi%2C+I'm+Jigar+Shekhat.;I+want+to+make+things;that+make+a+difference." alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
